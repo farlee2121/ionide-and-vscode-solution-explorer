@@ -1,0 +1,15 @@
+{
+  "name": "ionide-and-vscode-solution-explorer",
+  "displayName": "Ionide + Solution Explorer",
+  "description": "Replace the default ionide explorer with vscode-solution explorer",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
