@@ -1,5 +1,8 @@
 {
   "name": "ionide-and-vscode-solution-explorer",
+  "publisher": "spencer-farley",
+  "icon": "logo.png",
+  "keywords": ["Ionide","F#", "Solution Explorer", ".NET", "dotnet", "sln", "Project Explorer", "Project View"],
   "displayName": "Ionide + Solution Explorer",
   "description": "Replace the default ionide explorer with vscode-solution explorer",
   "repository": {
