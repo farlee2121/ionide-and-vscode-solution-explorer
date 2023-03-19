@@ -11,6 +11,11 @@
   "engines": {
     "vscode": "^1.76.0"
   },
+  "contributes": {
+    "configurationDefaults": {
+      "FSharp.enableTreeView": false
+    }
+  },
   "categories": [
     "Extension Packs"
   ],
