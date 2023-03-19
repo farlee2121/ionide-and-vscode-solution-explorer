@@ -1,7 +1,7 @@
 # Ionide + vscode-solution-explorer
 
 [Ionide](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp) is a wonderful editor for F# and [vscode-solution-explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer) is a featureful tree view for .NET solutions and projects. 
-This extension installs both with a bit of configuration.
+This extension installs both with a bit of configuration to turn off the default Ionide tree view.
 
 Yes, I know that Ionide includes a tree view for solutions and projects, but vscode-solution-explorer supports more features like
 - Listing all kinds of files (i.e. markdown, text, gitignore, notebooks, etc)
@@ -15,3 +15,9 @@ Yes, I know that Ionide includes a tree view for solutions and projects, but vsc
 ## Ownership and Updates
 Note that this bundle is not a redistribution. Both extensions are maintained and updated by their respective owners.
 The bundled extensions should update independent of this extension. This extension just shortcuts the installation and configuration.
+
+
+## Turning the Ionide Tree View Back On
+
+If you decide that you want both the Ionide tree view and the vscode-solution-explorer view then you can 
+easily turn the ionide view back on. The configuration setting ID is `FSharp.enableTreeView`
