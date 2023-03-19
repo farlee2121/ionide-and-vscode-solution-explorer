@@ -4,6 +4,8 @@ All notable changes to the "ionide-and-vscode-solution-explorer" extension pack 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.0.0] - 2023-03-19
 
 - Initial release
+- Installs both Ionide and vscode-solution-explorer
+- Turns the Ionide tree view off by default

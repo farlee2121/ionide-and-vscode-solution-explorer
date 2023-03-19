@@ -10,7 +10,7 @@
     "url": "https://github.com/farlee2121/ionide-and-vscode-solution-explorer"
   },
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.76.0"
   },
