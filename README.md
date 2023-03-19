@@ -11,13 +11,10 @@ Yes, I know that Ionide includes a tree view for solutions and projects, but vsc
 - Differentiating linked files
 - A broader range of hot keys (i.e. `f2` to rename, `delete` to delete a file)
 
-
-## Ownership and Updates
-Note that this bundle is not a redistribution. Both extensions are maintained and updated by their respective owners.
-The bundled extensions should update independent of this extension. This extension just shortcuts the installation and configuration.
-
-
-## Turning the Ionide Tree View Back On
+## Turning the Ionide Tree View On Or Off
 
 If you decide that you want both the Ionide tree view and the vscode-solution-explorer view then you can 
-easily turn the ionide view back on. The configuration setting ID is `FSharp.enableTreeView`
+easily turn the ionide view back on. The configuration setting ID is `FSharp.enableTreeView`.
+
+Likewise, if the Ionide explorer is still showing for some reason (perhaps the setting was set somewhere else)
+just set `FSharp.enableTreeView` to false/unchecked.
