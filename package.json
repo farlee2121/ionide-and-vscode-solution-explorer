@@ -10,6 +10,7 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
-    "publisher.extensionName"
+    "Ionide.Ionide-fsharp",
+    "fernandoescolar.vscode-solution-explorer"
   ]
 }
