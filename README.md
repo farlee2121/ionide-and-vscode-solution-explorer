@@ -1,4 +1,5 @@
 # Ionide + vscode-solution-explorer
+[![Version](https://vsmarketplacebadges.dev/version-short/spencer-farley.ionide-and-vscode-solution-explorer.svg)](https://marketplace.visualstudio.com/items?itemName=spencer-farley.ionide-and-vscode-solution-explorer)
 
 [Ionide](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp) is a wonderful editor for F# and [vscode-solution-explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer) is a featureful tree view for .NET solutions and projects. 
 This extension installs both with a bit of configuration to turn off the default Ionide tree view.
